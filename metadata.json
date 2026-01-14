@@ -1,0 +1,8 @@
+{
+  "name": "库里肖夫的实验 Kuleshov's Experiment",
+  "description": "A real-time face recording application with a split-screen random video player.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
